@@ -1,7 +1,7 @@
 # Portfolio
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" height="300" width="600" alt="webfre" />
+  <img src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif" height="200" width="600" alt="webfre" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
