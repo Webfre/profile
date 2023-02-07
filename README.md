@@ -1,7 +1,7 @@
 # Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sk8-pl/sk8-pl/main/assets/programmer.gif?raw=true" height="200" width="600" alt="webfre" />
+  <img src="https://raw.githubusercontent.com/sk8-pl/sk8-pl/main/assets/programmer.gif?raw=true" height="330" width="600" alt="webfre" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
