@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 import { AppWrap } from '../../wrapper';
-import { Images } from '../../constants';
+import dataImg from '../../constants/images';
 import './header.scss';
 
 const scaleVariants = {
@@ -48,7 +48,7 @@ function Header() {
       >
         <img
           className='avatar__image'
-          src={Images.profile}
+          src={dataImg.profile}
           alt='Фотография Роман'
         />
       </motion.div>
@@ -58,7 +58,7 @@ function Header() {
         whileInView={scaleVariants.whileInView}
         className='app__header-circle'
       >
-        {[Images.redux, Images.react, Images.typescript1].map(
+        {[dataImg.redux, dataImg.react, dataImg.typescript1].map(
           (circle, index) => (
             <div key={`circle-${index}`} className='circle-cmp app__flex'>
               <img src={circle} alt='circle' />

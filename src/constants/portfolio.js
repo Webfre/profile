@@ -1,4 +1,5 @@
-import Images from './images';
+// import dataImg from './dataImg';
+import dataImg from './images';
 
 const filterWork = [
   {
@@ -7,7 +8,7 @@ const filterWork = [
     description: 'Полнофункциональное и полностью адаптивное SPA, YouTube клон с React JS, Tailwind CSS и Rapid Api.',
     linkGit: 'https://github.com/Webfre/clone-youtube',
     linkPage: 'https://webfre.github.io/clone-youtube/',
-    imgUrl: Images.progect2,
+    imgUrl: dataImg.progect2,
     tags: ['React', 'Все'],
   },
   {
@@ -16,7 +17,7 @@ const filterWork = [
     description: ' Полнофункциональное и полностью отзывчивое адаптивное SPA, Google клон с React JS, Tailwind CSS и Google Search API.',
     linkGit: 'https://github.com/Webfre/google-search-clone-app',
     linkPage: 'https://webfre.github.io/google-search-clone-app/',
-    imgUrl: Images.progect3,
+    imgUrl: dataImg.progect3,
     tags: ['React', 'Все'],
   },
   {
@@ -25,7 +26,7 @@ const filterWork = [
     description: ' Приложение для отслеживания цен на криптовалютном рынке c React JS, React Hook, Axios, Cryptocurrency API.',
     linkGit: 'https://github.com/Webfre/crypto-finance-price',
     linkPage: 'https://webfre.github.io/crypto-finance-price/',
-    imgUrl: Images.progect8,
+    imgUrl: dataImg.progect8,
     tags: ['React', 'Все'],
   },
   {
@@ -34,7 +35,7 @@ const filterWork = [
     description: 'Отзывчивое  и полностью адаптивное SPA на React JS, библиотеки Aos (анимации), React Icons и видео-фона.',
     linkGit: 'https://github.com/Webfre/travel-tour',
     linkPage: 'https://webfre.github.io/travel-tour/',
-    imgUrl: Images.progect5,
+    imgUrl: dataImg.progect5,
     tags: ['React', 'Все'],
   },
   {
@@ -43,7 +44,7 @@ const filterWork = [
     description: 'Отзывчивое и полностью адаптивное SPA, о турах и путешествиях на React JS, React Hook.',
     linkGit: 'https://github.com/Webfre/travel-agency',
     linkPage: 'https://webfre.github.io/travel-agency/#/',
-    imgUrl: Images.progect4,
+    imgUrl: dataImg.progect4,
     tags: ['React', 'Все'],
   },
   {
@@ -52,7 +53,7 @@ const filterWork = [
     description: 'Полнофункциональное и полностью отзывчивое адаптивное SPA, на React JS, React Router Dom 6',
     linkGit: 'https://github.com/Webfre/website-fitness-app',
     linkPage: 'https://webfre.github.io/website-fitness-app/',
-    imgUrl: Images.progect6,
+    imgUrl: dataImg.progect6,
     tags: ['React', 'Все'],
   },
   {
@@ -61,7 +62,7 @@ const filterWork = [
     description: 'Приложение погоды с почасовым и ежедневным прогнозом на React JS, React Toastify и Tailwind CSS, используя OWM API.',
     linkGit: 'https://github.com/Webfre/weather-forecast',
     linkPage: 'https://webfre.github.io/weather-forecast/',
-    imgUrl: Images.progect1,
+    imgUrl: dataImg.progect1,
     tags: ['React', 'Все'],
   },
   {
@@ -70,7 +71,7 @@ const filterWork = [
     description: 'Список задач с интересным дизайном для создания, добавления, редактирования и удаления заметки в любое время.',
     linkGit: 'https://github.com/Webfre/todo-list',
     linkPage: 'https://webfre.github.io/todo-list/',
-    imgUrl: Images.progect7,
+    imgUrl: dataImg.progect7,
     tags: ['React', 'Все'],
   },
   {
@@ -79,7 +80,7 @@ const filterWork = [
     description: 'Приложение NFT под торговую площадку c React JS, CSS in JS styled-components.',
     linkGit: 'https://github.com/Webfre/nft-market',
     linkPage: 'https://webfre.github.io/nft-market/',
-    imgUrl: Images.progect9,
+    imgUrl: dataImg.progect9,
     tags: ['React', 'Все'],
   },
 ];

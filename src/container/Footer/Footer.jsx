@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import { Images } from '../../constants';
+import dataImg from '../../constants/images';
 import { AppWrap, MotionWrap } from '../../wrapper';
 import './footer.scss';
 
@@ -45,14 +45,14 @@ function Footer() {
 
       <div className='app__footer-cards'>
         <div className='app__footer-card'>
-          <img src={Images.email} alt='email' />
+          <img src={dataImg.email} alt='email' />
           <a href='mailto:romain.muhametschin@yandex.ru' className='p-text'>
             Напиши мне
           </a>
         </div>
 
         <div className='app__footer-card'>
-          <img src={Images.mobile} alt='mobile' />
+          <img src={dataImg.mobile} alt='mobile' />
           <a href='tel:+7 (999) 997-138' className='p-text'>
             +7 (999) 99 71 38
           </a>

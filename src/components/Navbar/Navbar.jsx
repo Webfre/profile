@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { HiMenuAlt4, HiX } from 'react-icons/hi';
 import { motion } from 'framer-motion';
 
-import { Images } from '../../constants';
+import dataImg from '../../constants/images';
 import './navbar.scss';
 
 function Navbar() {
@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <nav className='app__navbar'>
       <div className='app__navbar-logo'>
-        <img src={Images.logo} alt='logo' />
+        <img src={dataImg.logo} alt='logo' />
       </div>
       <ul className='app__navbar-links'>
         {['главная', 'обо мне', 'проекты', 'навыки'].map(item => (

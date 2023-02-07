@@ -39,7 +39,7 @@ import circle from '../assets/Bg/circle.svg';
 import logo from '../assets/Logo/logo.png';
 import subtle from '../assets/Bg/subtle-prism.svg';
 
-export default {
+const dataImg = {
   progect1,
   progect2,
   progect3,
@@ -72,3 +72,5 @@ export default {
   circle,
   logo,
 };
+
+export default dataImg;
