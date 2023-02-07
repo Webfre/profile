@@ -1,7 +1,7 @@
 # Portfolio
 
-<p align='center'>
-  ![Image alt](https:https://mir-s3-cdn-cf.behance.net/project_modules/fs/cad515121471255.60c6f76c3fac4.gif)
+<p align="center">
+  <img src="https:https://mir-s3-cdn-cf.behance.net/project_modules/fs/cad515121471255.60c6f76c3fac4.gif" height="300" width="600" alt="webfre" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
