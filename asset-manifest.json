@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.298d2c74.css",
-    "main.js": "/profile/static/js/main.78e3e01e.js",
-    "static/media/travelagency.png": "/profile/static/media/travelagency.b30b7e676259f98285dd.png",
+    "main.css": "/profile/static/css/main.d3955d02.css",
+    "main.js": "/profile/static/js/main.d2dd58a9.js",
+    "static/media/travelagency.png": "/profile/static/media/travelagency.f3efc8fb62f67abc61f1.png",
     "static/media/youtubeclone.png": "/profile/static/media/youtubeclone.fefeb690891a9f5996db.png",
     "static/media/about02.png": "/profile/static/media/about02.63f562ebaab8aca7e485.png",
     "static/media/travelusa.png": "/profile/static/media/travelusa.0b830c5265a769be7b71.png",
@@ -14,13 +14,13 @@
     "static/media/weaherapp.png": "/profile/static/media/weaherapp.d585e05ccd5025d8f487.png",
     "static/media/about03.png": "/profile/static/media/about03.039102e3ebd8c2b312ef.png",
     "static/media/about04.png": "/profile/static/media/about04.7ef92459792911203765.png",
+    "static/media/nft.png": "/profile/static/media/nft.f5e51a9c89fb22698b2e.png",
     "static/media/cryptotracker.png": "/profile/static/media/cryptotracker.8330112a37f6d1daa292.png",
-    "static/media/nft.png": "/profile/static/media/nft.da77aefd516c85037653.png",
     "static/media/profile.jpg": "/profile/static/media/profile.9e96db2018e77fa32209.jpg",
     "static/media/html5.png": "/profile/static/media/html5.17d34e7a388b2153cff2.png",
     "static/media/logo.png": "/profile/static/media/logo.8726669676b6b997f20a.png",
+    "static/media/googleclone.png": "/profile/static/media/googleclone.91ecd11b881e95469a09.png",
     "static/media/redux.png": "/profile/static/media/redux.c9be37e0fece29c624b0.png",
-    "static/media/googleclone.png": "/profile/static/media/googleclone.2c4371daef693c6dfef9.png",
     "static/media/sass.png": "/profile/static/media/sass.36e863bfbcb25c109d00.png",
     "static/media/typescript1.png": "/profile/static/media/typescript1.9429204441f404c10013.png",
     "static/media/mobile.png": "/profile/static/media/mobile.145d9ce0157a56f8fcd8.png",
@@ -32,11 +32,11 @@
     "static/media/subtle-prism.svg": "/profile/static/media/subtle-prism.d5df9ff06f4f99dfae81cfe4fa5379ae.svg",
     "index.html": "/profile/index.html",
     "static/media/circle.svg": "/profile/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.298d2c74.css.map": "/profile/static/css/main.298d2c74.css.map",
-    "main.78e3e01e.js.map": "/profile/static/js/main.78e3e01e.js.map"
+    "main.d3955d02.css.map": "/profile/static/css/main.d3955d02.css.map",
+    "main.d2dd58a9.js.map": "/profile/static/js/main.d2dd58a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.298d2c74.css",
-    "static/js/main.78e3e01e.js"
+    "static/css/main.d3955d02.css",
+    "static/js/main.d2dd58a9.js"
   ]
 }
