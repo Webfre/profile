@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Image alt](https://github.com/Webfre/clone-youtube/blob/main/src/images/youtubeclone.png)
 
-## Available Scripts
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webfre&label=Profile%20views&color=0e75b6&style=flat" alt="webfre" /> </p>
 
-In the project directory, you can run:
+- Single-page application;
+- Responsive and fully adaptive;
 
-### `npm start`
+## Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a href="https://webfre.github.io/clone-youtube/" target="_blank">Follow the link 👁</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech
 
-### `npm test`
+Portfolio uses a number of open source projects to work properly:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [react](https://reactjs.org/) - React is an open source JavaScript library for creating external user interfaces.
+- [framer-motion](https://www.npmjs.com/package/framer-motion) - An open source motion library for React, made by Framer. Motion powers Framer, the web builder for creative pros. Design and ship your dream site. Zero code, maximum speed.
+- [web-vitals](https://www.npmjs.com/package/web-vitals) - The library is a tiny (~1.5K, brotli'd), modular library for measuring all the Web Vitals metrics on real users, in a way that accurately matches how they're measured by Chrome and reported to other Google tools (e.g. Chrome User Experience Report, Search Console's Speed Report).
+- [scss-react](https://www.npmjs.com/package/scss-react) - A useful scss mixin to manage your media queries with charme.
+- [react-icons](https://react-icons.github.io/react-icons/) - This is a small library that helps you add icons (from different icon libraries) to your React applications. It delivers icons to your application as components to make them easier to work with, and allows you to style them so that they match the overall style of your application.
+- [ESlint](https://github.com/eslint/eslint) - ESLint is a tool that helps you analyze JavaScript code, find syntax errors and automatically correct them, write neat code in a uniform style according to certain rules.
+- [Prettier](https://prettier.io/) - Prettier is a code formatting tool that aims to use hard — coded rules for the design of programs. It formats the code automatically.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Portfolio requires [Node.js](https://nodejs.org/) v16+ to run.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+If you don't know your version, you can check it with the command in the [node -v] terminal.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In order to install the project locally, you will need:
 
-### `npm run eject`
+```sh
+git clone
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start the project:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```sh
+cd my-portfolio
+npm start or yarn start
+```
