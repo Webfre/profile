@@ -53,8 +53,8 @@ function Footer() {
 
         <div className='app__footer-card'>
           <img src={dataImg.mobile} alt='mobile' />
-          <a href='tel:+7 (999) 997-138' className='p-text'>
-            +7 (999) 99 71 38
+          <a href='tel:+7 (999) 979-71-38' className='p-text'>
+            +7 (999) 979 71 38
           </a>
         </div>
       </div>

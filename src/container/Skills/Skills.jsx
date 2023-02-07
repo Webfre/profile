@@ -1,4 +1,5 @@
 import React from 'react';
+import { FaInfoCircle } from 'react-icons/fa';
 
 import { motion } from 'framer-motion';
 
@@ -55,7 +56,10 @@ function Skills() {
                       draggable='false'
                       data-tooltip={work.desc}
                     >
-                      <h4 className='bold-text'>{work.name}</h4>
+                      <h4 className='bold-text'>
+                        {work.name}
+                        <FaInfoCircle className='icon' />
+                      </h4>
                       <p className='p-text'>{work.company}</p>
                     </div>
                   </motion.div>

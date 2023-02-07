@@ -88,6 +88,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   flex-direction: column;
+  margin-top: 1.5rem;
 
   @media screen and (max-width: 900px) {
     margin-top: 2rem;
@@ -115,12 +116,20 @@
     cursor: pointer;
 
     h4 {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: var(--gray-color);
       font-weight: 500;
+
+      svg {
+        color: var(--secondary-color);
+        font-size: 1rem;
+        margin-left: 0.5rem;
+      }
     }
 
     p {
-      font-weight: 400;
-      color: var(--gray-color);
       margin-top: 5px;
     }
   }
