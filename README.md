@@ -11,7 +11,7 @@
 
 ## Preview
 
-<a href="https://webfre.github.io/profile/#главная" target="_blank">Follow the link 👁</a>
+<a href="https://webfre.github.io/profile/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
