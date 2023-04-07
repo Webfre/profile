@@ -40,6 +40,7 @@ git clone https://github.com/Webfre/profile.git
 Start the project:
 
 ```sh
+npm install
 cd my-portfolio
 npm start or yarn start
 ```
