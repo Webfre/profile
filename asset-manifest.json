@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.d3955d02.css",
-    "main.js": "/profile/static/js/main.d2dd58a9.js",
+    "main.css": "/profile/static/css/main.12af56c1.css",
+    "main.js": "/profile/static/js/main.f6b4eba0.js",
     "static/media/travelagency.png": "/profile/static/media/travelagency.f3efc8fb62f67abc61f1.png",
     "static/media/youtubeclone.png": "/profile/static/media/youtubeclone.fefeb690891a9f5996db.png",
     "static/media/about02.png": "/profile/static/media/about02.63f562ebaab8aca7e485.png",
@@ -32,11 +32,11 @@
     "static/media/subtle-prism.svg": "/profile/static/media/subtle-prism.d5df9ff06f4f99dfae81cfe4fa5379ae.svg",
     "index.html": "/profile/index.html",
     "static/media/circle.svg": "/profile/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.d3955d02.css.map": "/profile/static/css/main.d3955d02.css.map",
-    "main.d2dd58a9.js.map": "/profile/static/js/main.d2dd58a9.js.map"
+    "main.12af56c1.css.map": "/profile/static/css/main.12af56c1.css.map",
+    "main.f6b4eba0.js.map": "/profile/static/js/main.f6b4eba0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3955d02.css",
-    "static/js/main.d2dd58a9.js"
+    "static/css/main.12af56c1.css",
+    "static/js/main.f6b4eba0.js"
   ]
 }
