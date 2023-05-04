@@ -84,15 +84,6 @@ const filterWork = [
     tags: ['React', 'Все'],
   },
   {
-    name: 'React Native',
-    title: ' / ',
-    description: 'React Native',
-    linkGit: '',
-    linkPage: '',
-    imgUrl: dataImg.react,
-    tags: ['React Native', 'Все'],
-  },
-  {
     name: 'Redux',
     title: ' / ',
     description: 'Redux',
@@ -100,15 +91,6 @@ const filterWork = [
     linkPage: '',
     imgUrl: dataImg.redux,
     tags: ['Redux', 'Все'],
-  },
-  {
-    name: 'TypeScript',
-    title: ' / ',
-    description: 'TypeScript',
-    linkGit: '',
-    linkPage: '',
-    imgUrl: dataImg.typescript,
-    tags: ['TypeScript', 'Все'],
   },
 ];
 

@@ -128,19 +128,23 @@
       flex-direction: column;
 
       li {
-        margin: 1rem;
+        width: 100%;
+        padding: 1rem 0;
+        background: transparent;
+        transition: background 2.5 ease-in-out;
 
         a {
+          display: inline-block;
           color: var(--gray-color);
+          width: 100%;
           text-decoration: none;
           font-size: 1rem;
           text-transform: uppercase;
           font-weight: 500;
-          transition: all 0.3 ease-in-out;
+        }
 
-          &:hover {
-            color: var(--secondary-color);
-          }
+        &:hover {
+          background: rgba(197, 206, 209, 0.274);
         }
       }
     }

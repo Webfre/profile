@@ -1,39 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import dataImg from '../../constants/images';
 import { AppWrap, MotionWrap } from '../../wrapper';
 import './footer.scss';
 
 function Footer() {
-  const [isFormSubmitted, setIsFormSubmitted] = useState(false);
-  const [loading, setLoading] = useState(false);
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    message: '',
-  });
-
   const copyrightDate = new Date();
-  const { name, email, message } = formData;
-
-  const handleChangeInput = e => {
-    const { name, value } = e.target;
-
-    setFormData({ ...formData, [name]: value });
-  };
-
-  const handleSubmit = () => {
-    setLoading(true);
-
-    const contact = {
-      _type: 'contact',
-      name: name,
-      email: email,
-      message: message,
-    };
-
-    // submit form Data
-  };
 
   return (
     <>
@@ -59,51 +31,44 @@ function Footer() {
         </div>
       </div>
 
-      {!isFormSubmitted ? (
-        <div className='app__footer-form app__flex'>
+      <div className='app__footer-form app__flex'>
+        <form
+          target='_blank'
+          action='https://formspree.io/f/mgebazpo'
+          method='POST'
+        >
           <div className='app__flex'>
             <input
               className='p-text'
               type='text'
               placeholder='Имя'
               name='name'
-              value={name}
-              onChange={handleChangeInput}
             />
           </div>
           <div className='app__flex'>
             <input
               className='p-text'
               type='email'
-              placeholder='Email'
+              placeholder='Почта'
               name='email'
-              value={email}
-              onChange={handleChangeInput}
             />
           </div>
           <div>
             <textarea
               className='p-text'
-              placeholder='Сообщение...'
-              value={message}
+              placeholder='Сообщение'
               name='message'
-              onChange={handleChangeInput}
             />
           </div>
           <button
             style={{ letterSpacing: '0.1rem' }}
             className='p-text'
-            type='button'
-            onClick={handleSubmit}
+            type='submit'
           >
-            {loading ? 'Отправка' : 'Отправить'}
+            Отправить
           </button>
-        </div>
-      ) : (
-        <div>
-          <h3 className='head-text'>Спасибо вам за то, что связались 🙏</h3>
-        </div>
-      )}
+        </form>
+      </div>
       <div className='copyright'>
         <p className='p-text'>&#169; Мухаметшин Р. М.</p>
         <p className='p-text'>2022 — {copyrightDate.getFullYear()}</p>

@@ -1,33 +1,33 @@
 const experience = [
   {
-    year: '2021',
-    name: 'HTML / SCSS',
-    company: 'С практикумом Skillbox',
+    year: '2020',
+    name: 'HTML / CSS',
+    company: 'scss, styled-c, mui, post-css',
     desc: 'Веб-вёрстка «Продвинутый уровень»',
   },
   {
     year: '2021',
-    name: 'JavaScript / ES6',
-    company: 'С практикумом Skillbox',
+    name: 'JavaScript / ES6+',
+    company: 'ajax, rest api, mark-and-sweep',
     desc: 'JavaScript ES6 «Продвинутый уровень»',
   },
   {
-    year: '2022',
+    year: '2021',
     name: 'React / Redux',
-    company: 'С практикумом Udemy',
-    desc: 'React Hooks, Redux. «Средний и продвинутый уровень»',
+    company: 'router dom v5-6, query, reselect',
+    desc: 'React Hooks, RTK. «Средний и продвинутый уровень»',
   },
   {
     year: '2022',
     name: 'TypeScript',
-    company: 'С практикумом Udemy',
-    desc: 'Types, Interface, Generics «Средний уровень»',
+    company: 'types, interface, generics',
+    desc: '«Средний уровень»',
   },
   {
-    year: '2023',
+    year: '2022',
     name: 'Node.js / Next.js',
-    company: 'С практикумом Udemy',
-    desc: 'Планирую изучить «Начальный уровень»',
+    company: 'jwt, mySql, express, socket-io',
+    desc: '«Начальный уровень»',
   },
 ];
 

@@ -8,17 +8,17 @@ const abouts = [
   },
   {
     title: 'Интересы',
-    description: 'Я ищу сотрудничества с творческой и опытной командой разработчиков.',
+    description: 'Ищу сотрудничества с творческой и опытной командой разработчиков.',
     imgUrl: dataImg.about01,
   },
   {
-    title: 'Практика',
-    description: 'Frontend разработка сайтов, SPA на React JS, проектирование интерфейса сайта.',
+    title: 'Опыт',
+    description: 'Frontend разработка веб-приложений, SPA на React JS. Работа с performance, LCP, FID, re-render React.',
     imgUrl: dataImg.about03,
   },
   {
     title: 'О себе',
-    description: 'Мне 25 лет, живу в г. Москве. Занимаюсь разработкой SPA на React, Redux + TypeScript',
+    description: 'Быстро осваиваю новые направления деятельности, овладеваю новыми навыками. Способен выдерживать интенсивный режим работы.',
     imgUrl: dataImg.about04,
   },
 ];
