@@ -11,7 +11,7 @@
 
 ## Preview
 
-<a href="https://webfre.github.io/profile/#главная" target="_blank">Follow the link 👁</a>
+<a href="https://webfre.github.io/profile/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
@@ -40,6 +40,7 @@ git clone https://github.com/Webfre/profile.git
 Start the project:
 
 ```sh
+npm install
 cd my-portfolio
 npm start or yarn start
 ```
